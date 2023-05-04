@@ -15,7 +15,7 @@ function App() {//Test class
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React from UDEMY
         </a>
       </header>
     </div>
